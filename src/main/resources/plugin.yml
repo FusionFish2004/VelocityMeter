@@ -1,0 +1,6 @@
+name: VelocityMeter
+main: io.github.jeremyhu.VelocityMeter.Main
+version: 1.0
+author: JeremyHu
+api-version: 1.16
+
